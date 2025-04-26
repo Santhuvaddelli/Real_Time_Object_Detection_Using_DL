@@ -1,0 +1,30 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: 100IndianRupees
+  1: 10IndianRupees
+  2: 200IndianRupees
+  3: 20IndianRupees
+  4: 500IndianRupees
+  5: 50IndianRupees
+  6: 5IndianRupees
+  7: Door
+  8: Eraser
+  9: Handwritten text
+  10: Lecturer
+  11: Pencil
+  12: Ruler
+  13: Sharpener
+  14: Whiteboard
+  15: bulb
+  16: desk
+  17: fan
+  18: pen
+  19: printer
+  20: ring
+  21: rings
+  22: shoes
+  23: sneaker
+  24: spectacles
