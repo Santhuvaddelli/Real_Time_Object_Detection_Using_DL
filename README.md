@@ -10,5 +10,3 @@ This project focuses on real-time object detection using deep learning technique
 - YOLOv8
 - Google Colab (for training models)
 - Ultralytics
-
-## 📂 Project Structure
